@@ -6,7 +6,11 @@ GITHUB FIRST PROJECT
 
 assets & fiture
 -simple idle movement
+
 -simple attack movement
+
 -simple background 
+
 -colider
+
 -button
